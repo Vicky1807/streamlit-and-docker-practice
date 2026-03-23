@@ -7,9 +7,8 @@ Simple Streamlit web app running in Docker. Started by hitting `ModuleNotFoundEr
 ## The Problem
 
 Tried running the app directly and got:
-```
-ModuleNotFoundError: No module named 'streamlit'
-```
+
+<img width="857" height="120" alt="image" src="https://github.com/user-attachments/assets/f25a4035-e1c0-484c-85b7-055ac6e31bab" />
 
 Had to manually install packages each time. Docker solves this.
 
@@ -75,3 +74,7 @@ pandas==2.0.0
 - ✅ Isolated environment
 
 **Status**: Working and Learning! 🎉
+
+
+<img width="1908" height="961" alt="image" src="https://github.com/user-attachments/assets/50b37fdc-f34e-4f07-8aea-08a4bae6908d" />
+
